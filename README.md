@@ -1,2 +1,4 @@
 # Secure-password-generator
-This Python program generates a secure password; simply enter the password length. More details are in the README file.
+A program written in Python allows you to generate a secure password; simply enter the password length.
+
+The password consists of random uppercase and lowercase letters, numbers, and special characters.
